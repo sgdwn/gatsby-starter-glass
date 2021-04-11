@@ -1,7 +1,6 @@
 ---
 date: '2021-09-03'
 tags:
-  - rick and morty
   - tv series
 ---
 
