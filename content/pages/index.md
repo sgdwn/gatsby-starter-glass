@@ -1,8 +1,7 @@
 ---
-template: 'index-template'
-title: 'Gatsby Starter Glass'
+template: index-template
+title: Gatsby Starter Glass
 ---
+\#Great Expectations
 
-#Hello World
-
-A minimal & beautiful gatsby personal blog starter with nice glassmorphism UI.
+A novel by Charles Dickens
